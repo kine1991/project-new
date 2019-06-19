@@ -9,3 +9,7 @@
 
 * conflict
 * 11111111  
+
+
+
+* - add new stuff for compate maser
